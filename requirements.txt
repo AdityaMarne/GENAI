@@ -6,3 +6,6 @@ langchain-groq
 ipykernel
 langchain-openai
 langchain-groq
+langgraph
+langchain
+langsmith
