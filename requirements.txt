@@ -9,3 +9,7 @@ langchain-groq
 langgraph
 langchain
 langsmith
+langchain-core
+langchain-community
+pypdf
+pymupdf
